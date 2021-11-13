@@ -8,3 +8,5 @@ ________________________________________________________________________________
 ![Alt-текст](https://i.ibb.co/ryTbXRL/Screenshot.png "Орк")
 
 ![Alt-текс](https://i.ibb.co/mbbxr6F/image.png "Ор")
+
+![Alt-тек](https://i.ibb.co/NVcLxhJ/image.png "О")
